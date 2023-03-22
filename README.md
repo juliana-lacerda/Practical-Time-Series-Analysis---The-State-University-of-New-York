@@ -19,6 +19,6 @@ Course notes in R and my python script related to the course Practical Time Seri
     - Evaluation metrics are then used to check the performance of both models. The metrics root mean squared error and mean absolute error are calculated. As expected, the HW model presents lower values of these metrics and is a better fit for this dataset.
 
 ## Contents: Week 1, ..., Week 6
-  * Slides and R scipts of all the classes of the course.
+  * Slides and R scipts and notebooks of all the classes of the course.
 
 
