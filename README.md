@@ -3,7 +3,7 @@ Course notes in R and my python script related to the course Practical Time Seri
 
 ## Contents: My Python Script
 ### plot_functions.py and statistical_functions.py: Functions to make plots and statistical tests.
-### main.ipynb: Notebook with milk production time series and my personal analysis. 
+### main.ipynb: Notebook with my personal analysis of a specific time series. Train test split is not performed here as the main objective is to explore the models and make a residual analysis. 
   * SARIMA model
     - The time series is plotted and shows traces of seasonality (s=12 months) and an upward trend. No heteroscedasticity is noted so log-return was not used.
     - The series is turned into a stationary series by performing seasonal and non-seasonal differencing of order 1. The Augmented Dickey-Fuller test is used to test for stationarity.
